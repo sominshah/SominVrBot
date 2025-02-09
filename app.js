@@ -1,6 +1,3 @@
-
-
-
 require("dotenv").config();
 const {Highrise, Events, Reactions,Emotes, Facing} = require("highrise.sdk.dev")
 const config = require("./config")
