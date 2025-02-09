@@ -1,0 +1,21 @@
+{
+  "name": "sominvrbot-v2",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@discord-player/extractor": "^7.1.0",
+    "@discordjs/voice": "^0.18.0",
+    "discord-player": "^7.1.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "highrise.sdk.dev": "^2.4.0",
+    "string-similarity": "^4.0.4"
+  }
+}
